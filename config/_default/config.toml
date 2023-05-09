@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://lukaskolek4.github.io"
+baseurl = "https://lukaskolek4.github.io/ai-traveller/"
 languageCode = "en-us"
 paginate = 5
 title = "Hugo Theme Stack Starter"
